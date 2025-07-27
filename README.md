@@ -22,7 +22,7 @@ pip install -e .
 Or install from the repository:
 
 ```
-pip install git+https://git.t.etratnet.ir/AI/
+pip install git+https://github.com/mmpouya/incremental_dedup
 incremental_dedup
 ```
 ## Requirements
